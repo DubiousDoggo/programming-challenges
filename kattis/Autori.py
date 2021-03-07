@@ -1,0 +1,1 @@
+print(*(x[0] for x in input().split('-')),sep='')

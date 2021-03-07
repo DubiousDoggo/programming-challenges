@@ -1,0 +1,1 @@
+print(*('%i Abracadabra'%(n+1) for n in range(int(input()))),sep='\n')
