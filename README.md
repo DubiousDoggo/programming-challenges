@@ -13,4 +13,4 @@ For this one I decided to combine the idea of a polyglot with a quine. It works 
 
 ## r
 A 4 language PolyQuine.
-Taking the ideas from [p](#p) and [q](#q), I combinied them into this massive beast of a program. It works with Java, C, JavaScript, and Rust. This was quite the puzzle trying to micromanage each language interweaving all over the place. Getting Rust in there was the most difficult, since this is the first program I've written with it. It started out at almost 3000 bytes, but I've golfed it down to 2291 and still plan to take it lower.
+Taking the ideas from [p](#p) and [q](#q), I combinied them into this massive beast of a program. It works with Java, C, JavaScript, and Rust. This was quite the puzzle trying to micromanage each language interweaving all over the place. Getting Rust in there was the most difficult, since this is the first program I've written with it. It started out at almost 3000 bytes, but I've managed to golf it down to 1987.
