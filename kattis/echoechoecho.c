@@ -1,0 +1,1 @@
+int main(){char c[99];gets(c);printf("%s %s %s",c,c,c);}
